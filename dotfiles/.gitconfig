@@ -1,0 +1,5 @@
+[user]
+	name = Oe Yoshinori
+	email = ooeyoshinori@gmail.com
+[core]
+	excludesfile = ~/.gitignore_global
